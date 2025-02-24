@@ -2,25 +2,18 @@
 
 Somos estudantes da Etec Jaraguá no terceiro ano de Desenvolvimento de Sistemas.
 
-🔭 Atualmente, estou trabalhando em Trabalho Conclusivo de Curso.
+🔭 Atualmente, estamos trabalhando em Trabalho Conclusivo de Curso.
 
-🌱 Estou aprendendo mais sobre [Tecnologia ou área que você está estudando].
+🌱 Estamos aprendendo mais sobre React e Python.
 
-👯 Estou aberto(a) a colaborar em projetos de [tema de interesse ou área de colaboração].
+📫 Como nos encontrar: contatoluizapaiva@gmail.com e mianoit123@gmail.com.
 
-💬 Você pode me perguntar sobre [assuntos em que você é especialista].
-
-📫 Como me encontrar: [email ou outras formas de contato].
-
-📄 Saiba mais sobre mim [seu portfólio ou currículo].
-
-⚡ Curiosidade: [algo interessante sobre você].
+⚡ Curiosidade: Somos interessados na língua inglesa.
 
 ## Licença
 
-Este repositório está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Ou, se você estiver usando uma licença diferente:
+Este repositório está licenciado sob a **GitHub Educacional License**. 
 
-Este repositório está licenciado sob a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+![Capturar](https://github.com/user-attachments/assets/cacb17a0-6685-4f31-a83e-626ab68b604c)
 
