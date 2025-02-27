@@ -10,7 +10,7 @@ Somos estudantes da Etec Jaraguá no terceiro ano de Desenvolvimento de Sistemas
 
 ⚡ Curiosidade: Somos interessados na língua inglesa. 
 
-ROADMAP: https://roadmap.sh/r?id=67bce0e5a8c88d6e35747e27
+ ROADMAP: [https://roadmap.sh/r?id=67bce0e5a8c88d6e35747e27](https://roadmap.sh/qa)
 
 ## Licença
 
