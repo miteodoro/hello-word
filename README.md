@@ -8,7 +8,7 @@ Somos estudantes da Etec Jaraguá no terceiro ano de Desenvolvimento de Sistemas
 
 📫 Como nos encontrar: contatoluizapaiva@gmail.com e mianoit123@gmail.com.
 
-⚡ Curiosidade: Somos interessados na língua inglesa. 
+⚡ Curiosidade: Somos interessados na língua inglesa. =>
 
  ROADMAP: [https://roadmap.sh/r?id=67bce0e5a8c88d6e35747e27](https://roadmap.sh/qa)
 
